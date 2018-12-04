@@ -1,0 +1,23 @@
+# Site settings
+title:
+email:
+author:
+description:
+url:
+
+# Build settings
+# this permalink puts posts in year, month, day, then folder with title
+# and html file with title as the name
+permalink: posts/:year/:month/:day/:title/:title:output_ext
+sass:
+  sass_dir: css
+
+# Social Icons
+show_social_icons: true
+github_username: collinsteaches
+twitter_username: collinsteaches
+
+# plugins
+plugins: [jekyll-paginate]
+paginate: 3
+paginate_path: "/posts/page:num/"
