@@ -21,3 +21,6 @@ If you are looking for class information, you can find the following already pos
 
 **First Day Activity**
 [Career Survey](https://forms.gle/5wAFYLqJV7YagznF6)
+
+**Notes for the Day**
+[Link](/assets/docs/sy1920/notes/firstday.pdf)
