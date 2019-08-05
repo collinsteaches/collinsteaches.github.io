@@ -1,0 +1,20 @@
+<section id="wblyap">
+  <div class="container py-3">
+    <div class="row">
+      <div class="col">
+        <h2 class="text-primary">Recent in WBL/YAP</h2>
+
+
+
+        <ul>
+          {% for post in site.categories.wbl %}
+          {% if post.url %}
+          <li><a href="{{ post.url }}">{{ post.title }} by {{post.author}}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+
+      </div>
+    </div>
+  </div>
+</section>
