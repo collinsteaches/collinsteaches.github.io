@@ -18,3 +18,6 @@ If you are looking for class information, you can find the following already pos
   - [Syllabus for Introduction to Business and Technology](/assets/docs/sy1920/ibt/ibt_syllabus_1920.html) [Download](/assets/docs/sy1920/ibt/ibt_syllabus_1920.pdf)
   - [WBL/YAP information](/wbl/)
   - [My Schedule](/assets/docs/myschedule1920.html)
+
+**First Day Activity**
+[Career Survey](https://forms.gle/5wAFYLqJV7YagznF6)
