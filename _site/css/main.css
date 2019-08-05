@@ -6505,7 +6505,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 #banner {
   position: relative;
-  background: url("../assets/img/banner.jpeg");
+  background: url("/assets/img/banner.jpeg");
   min-height: 250px; }
   #banner .primary-overlay {
     background: rgba(141, 2, 31, 0.8);

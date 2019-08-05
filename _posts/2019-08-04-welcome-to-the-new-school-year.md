@@ -2,11 +2,11 @@
 layout: post
 title: Welcome to the new school year!
 summary: A welcome and introduction with some information about getting started with the new school year.
-categories: [school, teaching, sy1920]
+categories: [school, teaching, sy1920, ibt, idt]
 tags: [first day]
 author: Mr. Collins
 ---
-<p>{{ page.date }} - Written by {{ page.author }}</p>
+<!-- <p>{{ page.date }} - Written by {{ page.author }}</p> -->
 
 **Hello, Hello, Hello!**
 
@@ -16,5 +16,5 @@ If you are looking for class information, you can find the following already pos
 
   - [Syllabus for Introduction to Digital Technology](/assets/docs/sy1920/idt/idt_syllabus_1920.html) [Download](/assets/docs/sy1920/idt/idt_syllabus_1920.pdf)
   - [Syllabus for Introduction to Business and Technology](/assets/docs/sy1920/ibt/ibt_syllabus_1920.html) [Download](/assets/docs/sy1920/ibt/ibt_syllabus_1920.pdf)
-  - [WBL/YAP information](/assets/docs/wblyap/index.html)
+  - [WBL/YAP information](/wbl/)
   - [My Schedule](/assets/docs/myschedule1920.html)
