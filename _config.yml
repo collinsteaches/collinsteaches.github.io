@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-author:
-description:
-url:
+title: collinsteaches...thoughts and resources
+email: alex.collins@screven.k12.ga.us
+author: Alex Collins
+description: The space on the web of Alex Collins.
+url: collinsteaches.com
 
 # Build settings
 # this permalink puts posts in year, month, day, then folder with title
