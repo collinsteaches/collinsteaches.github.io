@@ -1,15 +1,14 @@
 ---
 layout: post
-title: The second day of school is the best....according to some things.
-summary: Discuss and review syllabus.
+title: All About Me and so much more.
+summary: Begin our first project on most people's favorite subject.
 categories: [school, teaching, sy1920, ibt, idt]
-tags: [syllabus review]
+tags: [all about me]
 author: Mr. Collins
 ---
 
-*Day 2:*
+*Day 3:*
 
-We will be going over the syllabus and hopefully getting connected with teachnology.
+Today, we covered the first project of the year...an introduction to who you are.  The title of the project is ``All About Me''.  Below you will find a link to the notes shown in class.
 
-[IDT Notes](/assets/docs/sy1920/notes/syllabusidt.pdf)
-[IBT Notes](/assets/docs/sy1920/notes/syllabusibt.pdf)
+[Notes](/assets/docs/sy1920/notes/07aug19.pdf)
