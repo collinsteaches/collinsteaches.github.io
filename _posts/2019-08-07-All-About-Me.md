@@ -1,7 +1,7 @@
 ---
 layout: post
-title: All About Me and so much more.
-summary: Begin our first project on most people's favorite subject.
+title: Finishing up All About me.
+summary: Putting the finishing touches on the presentation.
 categories: [school, teaching, sy1920, ibt, idt]
 tags: [all about me]
 author: Mr. Collins
