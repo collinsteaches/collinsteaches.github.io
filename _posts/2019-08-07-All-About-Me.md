@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Finishing up All About me.
-summary: Putting the finishing touches on the presentation.
+title: Continuing All About me.
+summary: Continue working on the presentation.
 categories: [school, teaching, sy1920, ibt, idt]
 tags: [all about me]
 author: Mr. Collins

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Finishing up All About me.
-summary: Putting the finishing touches on the presentation.
+title: Ending the first week
+summary: With meetings, etc. happening, we will be wrapping up getting to know each other.
 categories: [school, teaching, sy1920, ibt, idt]
 tags: [all about me]
 author: Mr. Collins
